@@ -2,7 +2,7 @@
   "name": "seankonz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://swkonz.github.io/seankonz",
+  "homepage": "http://seankonz.com",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
