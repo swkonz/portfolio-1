@@ -1,0 +1,13 @@
+// custom changes to override the bootstrap defaults
+$body-bg:           #EAEAEA;
+
+$warning:           #F08940;
+$info:              #8DAA91;
+
+// For Branding elements
+$brand-primary:     #173939;
+$text-color:          #173939;
+
+
+// Import bootstrap and default variables
+@import '~bootstrap/scss/bootstrap.scss';
