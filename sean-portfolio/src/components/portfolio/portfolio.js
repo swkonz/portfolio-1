@@ -178,7 +178,7 @@ class portfolio extends React.Component {
               </div>
             </div>{/* modal-04 End */}
             <div id="modal-05" className="popup-modal mfp-hide">
-              <img className="scale-with-grid" src="images/portfolio/modals/m-farmerboy.jpg" alt="project pic" />
+              <img className="scale-with-grid" src="images/portfolio/h4d.jpg" alt="project pic" />
               <div className="description-box">
                 <h4>Knowledge Management</h4>
                 <p>Member of the founding team for Librarian.AI, a startup that spun out of the Stanford Hacking for Defense class. 
@@ -196,7 +196,7 @@ class portfolio extends React.Component {
                 <p>Set building, Video Engineering, and Sound Design technician for five large scale productions at Stanford. 
                   Recent credits include Technical Director of The Addams Family, and Associate Video Designer of Next To Normal.
                 </p>
-                <span className="categories"><i className="fa fa-tag" />Photography</span>
+                <span className="categories"><i className="fa fa-tag" />Technical Theatre, Carpentry, Visual Effects</span>
               </div>
               <div className="link-box">
                 <a href="https://ramshead.stanford.edu/">Details</a>
@@ -209,7 +209,7 @@ class portfolio extends React.Component {
                 <h4>Saving Pets</h4>
                 <p>Won top award at Stanford Treehacks 2017 for a project with an animal shelter to redirect resources and animal 
                   populations which had room to accept more animals.</p>
-                <span className="categories"><i className="fa fa-tag" />Branding, Illustration</span>
+                <span className="categories"><i className="fa fa-tag" />Hackathon, A*, Social Impact </span>
               </div>
               <div className="link-box">
                 <a href="https://devpost.com/software/everybody-lives">Details</a>
@@ -222,7 +222,7 @@ class portfolio extends React.Component {
                 <h4>Assistive Technologies</h4>
                 <p>Designed and built a novel computer interface system using a single camera Eyetracking approach, and a custom 
                   constructed EEG. Filed for my first patent based on the resarch going into the project.</p>
-                <span className="categories"><i className="fa fa-tag" />Webdesign, Photography</span>
+                <span className="categories"><i className="fa fa-tag" />Computer Vision, EEG, Assistive Technologies</span>
               </div>
               <div className="link-box">
                 <a href="https://github.com/swkonz/CSightTech">Details</a>
